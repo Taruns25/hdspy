@@ -1,0 +1,6 @@
+product_id,product_name,customer_name,review_text,rating
+P001,SmartToothbrush,John Doe,"This toothbrush is amazing. Cleans my teeth so well and connects to my phone.",5
+P002,Blender 3000,Jane Smith,"Works fine but it leaked once. Not sure I trust it for soups.",3
+P003,QuietKettle Max,Amara Lee,"Super quiet, boils fast. The design is sleek. A bit pricey though.",4
+P004,FlexiDesk Pro,Ali Khan,"The adjustable height feature is perfect. Helps my back pain!",5
+P005,NoiseFree Earbuds,Sofia Tan,"Battery life is poor, but the sound quality is top notch.",3
